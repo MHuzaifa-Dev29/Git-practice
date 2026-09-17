@@ -3,5 +3,6 @@ public class main {
         System.out.println("I am learning Git");
         System.out.println("Learning Git and GitHub");
         System.out.println("Git Done");
+        System.out.println("My code is now on GitHub");
     }
 }
